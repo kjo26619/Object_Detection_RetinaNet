@@ -73,6 +73,7 @@ pt가 1에 가까워지면 계수는 0이 되고 쉬운 샘플이 Loss에서 갖
 # RetinaNet
 
 ![img1](https://github.com/kjo26619/Object_Detection_RetinaNet/blob/main/RetinaNet.PNG)
+( 출처 : https://arxiv.org/pdf/1708.02002.pdf )
 
 RetinaNet은 백본 네트워크와 두 개의 네트워크로 구성됩니다. 
 
